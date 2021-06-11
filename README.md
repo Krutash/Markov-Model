@@ -1,6 +1,6 @@
 # Markov-Model
 ## JAVA CODE IMPLEMENTATION
-# 1.	Please refer to java script provided in the Zip.
+### 1.	Please refer to java script as well.
 
 (a)	The script “HiddenMarkov.java” implements Likelihood and Decoding problem in Hidden Markov Model.
 
@@ -8,7 +8,7 @@
 
 (c)	The likelihood problem is solved using forward algorithm and decoding problem is solved using Viterbi algorithm as discussed in this report.
 
-# 2.	The script “LearningProb.java” implements Learning problem of Hidden Markov Model.
+### 2.	The script “LearningProb.java” implements Learning problem of Hidden Markov Model.
 
 (a)	To successfully run the training model please provide the array of sequence of observation in variable xs at line 306.
 
